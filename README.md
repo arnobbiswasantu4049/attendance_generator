@@ -31,7 +31,7 @@ attendance text that can be directly copied and sent via WhatsApp or online plat
 | Column | Type |
 |------|------|
 | student_id | VARCHAR |
-| name | VARCHAR |
+| student_name | VARCHAR |
 
 ---
 
