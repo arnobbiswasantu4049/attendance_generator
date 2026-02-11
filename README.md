@@ -11,7 +11,6 @@ attendance text that can be directly copied and sent via WhatsApp or online plat
 ## 🚀 Features (Current)
 - Student data stored in MySQL database
 - Fetch student ID & name automatically
-- CLI-based attendance generation
 - Course-wise and date-wise attendance support (basic)
 
 ---
